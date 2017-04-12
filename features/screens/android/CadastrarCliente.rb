@@ -1,0 +1,6 @@
+
+class CadastrarCliente < EstruturaScreen
+
+
+    
+end
